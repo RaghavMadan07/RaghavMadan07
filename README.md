@@ -21,8 +21,7 @@
 ## 📫 Connect with Me
 
 - 📧 [raghavmadan256@gmail.com](mailto:raghavmadan256@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/raghavmadan07)  
-- 📁 [Kaggle](https://www.kaggle.com/raghavmadan07)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raghav-madan-8b7940323/)  
 - 🔧 [GitHub Repositories](https://github.com/RaghavMadan07?tab=repositories)
 
 ---
